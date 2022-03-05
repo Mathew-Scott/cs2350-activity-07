@@ -1,2 +1,6 @@
 /* Your styles go here */
+body {
+    background: black;
+    color: white
+}
 @import "~bootstrap/dist/css/bootstrap.min.css";
